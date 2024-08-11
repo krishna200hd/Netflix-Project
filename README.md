@@ -19,23 +19,23 @@ Before proceeding with the project, I would like to discuss the following detail
 
 The data fields of the dataset that was provided are described as follows:
 
-* ~imdb_id:
-* ~title:
-* ~popular_rank:
-* `certficate:
-* `startYear:
-* `endYear:
-* `episode:
-* `runtime:
-* `type: Type of content: (Movie or TV Show).
-* `origin_country:
-* `language:
-* `plot:
-* `summary:
-* `rating:
-* `numVotes:
-* `genres:
-* `isAdult:
-* `cast:
-* `Image_url:
+* `imdb_id`:
+* `title`:
+* `popular_rank`:
+* `certficate`:
+* `startYear`:
+* `endYear`:
+* `episode`:
+* `runtime`:
+* `type`: Type of content: (Movie or TV Show).
+* `origin_country`:
+* `language`:
+* `plot`:
+* `summary`:
+* `rating`:
+* `numVotes`:
+* `genres`:
+* `isAdult`:
+* `cast`:
+* `Image_url`:
  
