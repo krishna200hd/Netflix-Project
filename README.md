@@ -19,9 +19,9 @@ Before proceeding with the project, I would like to discuss the following detail
 
 The data fields of the dataset that was provided are described as follows:
 
-* `imdb_id:
-* `title:
-* `popular_rank:
+* ~imdb_id:
+* ~title:
+* ~popular_rank:
 * `certficate:
 * `startYear:
 * `endYear:
